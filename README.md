@@ -11,7 +11,8 @@
 
 ## Directions
 - Recreate your Travel Packer site from day one. You do not need to include the repository that we worked on in class 16.
-- Design a database schema for your Travel Packer website. 
+- Design a database schema for your Travel Packer website. Dont focus so much on tables that hold "types", only focus on the tables that are most important (i.e. Destination, Supplies).
+- Every Supply item should have a link to the destination table. We won't worry to much about duplicates across the supplies right now, the rows in the table will still be 'unique' because the DestinationID will be different for each item. 
 - You should have at least 2 tables (Destination & Supplies). 
 - Draw out the different tables and identify the foreign keys, primary keys, and associations between each (1 - *, * - *, etc...)
 - Include the Navigation Properties within your diagram 
