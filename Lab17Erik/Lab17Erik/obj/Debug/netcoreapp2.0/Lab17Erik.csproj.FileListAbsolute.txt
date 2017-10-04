@@ -6,3 +6,6 @@ C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\obj\Debug\n
 C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\obj\Debug\netcoreapp2.0\Lab17Erik.csproj.CoreCompileInputs.cache
 C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\obj\Debug\netcoreapp2.0\Lab17Erik.AssemblyInfoInputs.cache
 C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\obj\Debug\netcoreapp2.0\Lab17Erik.AssemblyInfo.cs
+C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\bin\Debug\netcoreapp2.0\Lab17Erik.pdb
+C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\obj\Debug\netcoreapp2.0\Lab17Erik.dll
+C:\Users\shop2\source\repos\Lab17-DatabaseDesign\Lab17Erik\Lab17Erik\obj\Debug\netcoreapp2.0\Lab17Erik.pdb
