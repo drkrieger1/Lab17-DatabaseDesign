@@ -10,6 +10,7 @@
 
 
 ## Directions
+- Recreate your Travel Packer site from day one. You do not need to include the repository that we worked on in class 16.
 - Design a database schema for your Travel Packer website. 
 - Draw out the different tables and identify the foreign keys, primary keys, and associations between each (1 - *, * - *, etc...)
 - Include the Navigation Properties within your diagram 
