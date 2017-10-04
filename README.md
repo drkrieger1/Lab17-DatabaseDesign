@@ -19,11 +19,6 @@
 - Make these tables you created be represented as Models in your website.
 - Be sure that all the tables you created are represented in both the database and in your model folder
 
-## Things to Note:
-- Within your model, Most of the tables should represent models within your code. 
-- It is possible to have tables that are not represented through models in your database (i.e. WeatherType, AmusementParkType etc..)
-- When creating your table, only connect tables to your model if they seem appropriate. You may need to mamually add other tables to your database if they are just type holders. Another alternative is to use Enums to hold type values. 
-
 ## ReadMe
 - Your readme should include the following information:
 	- How long did it take you to complete this assignment?
